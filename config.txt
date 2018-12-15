@@ -1,0 +1,6 @@
+token= NTIzNjE4MjcwNTIwMjc5MDk5.DvcJIA.fPzMnoa4aE2JNQjglsQSytPFHM4
+owner= 498991974393708554
+prefix= 3
+game= Zero Server
+stayinchannel= true
+songinstatus= true
